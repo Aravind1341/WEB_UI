@@ -1,0 +1,41 @@
+2020-07-23 19:12:30,217 ERROR [main] TestBase:65 - **********Your record has been successfully added.
+Currency Code: AUD**********
+2020-07-28 10:35:59,329 ERROR [main] TestBase:63 - **********Unable to add record: Record already exists.**********
+2020-07-28 10:36:14,046 ERROR [main] TestBase:63 - **********Unable to add record: Record already exists.**********
+2020-07-28 10:36:29,081 ERROR [main] TestBase:63 - **********Unable to add record: Record already exists.**********
+2020-07-28 10:36:44,020 ERROR [main] TestBase:63 - **********Unable to add record: Record already exists.**********
+2020-07-28 10:36:58,712 ERROR [main] TestBase:63 - **********Unable to add record: Record already exists.**********
+2020-07-28 12:55:03,339  INFO [main] TestBase:106 - ***************Chrome Browser Closed***************
+2020-07-28 13:02:23,999  INFO [main] TestBase:106 - ***************Chrome Browser Closed***************
+2020-07-28 13:02:38,444  INFO [main] TestBase:84 - **********Your record has been successfully added.
+Maintenance Group: MGroup4**********
+2020-07-28 13:02:39,347  INFO [main] TestBase:106 - ***************Chrome Browser Closed***************
+2020-07-28 13:02:52,117  INFO [main] TestBase:84 - **********Your record has been successfully added.
+Maintenance Group: MGroup5**********
+2020-07-28 13:02:53,445  INFO [main] TestBase:106 - ***************Chrome Browser Closed***************
+2020-07-28 13:03:07,961  INFO [main] TestBase:84 - **********Your record has been successfully added.
+Maintenance Group: MGroup6**********
+2020-07-28 13:03:09,780  INFO [main] TestBase:106 - ***************Chrome Browser Closed***************
+2020-07-28 13:04:03,272  INFO [main] TestBase:64 - **********Your record has been successfully added.
+Code : Code**********
+2020-07-29 16:29:19,380 ERROR [main] TestBase:84 - Field 'Process ID' is required.
+Please enter the correct value for 'Port Number'
+Field 'Connection Type' is required.
+Field 'Persistent Connection' is required.
+Please enter the correct value for 'Maximum Connection Retries'
+Please enter the correct value for 'Maximum Socket Retries'
+Please enter the correct value for 'Maximum Buffer Size'
+Please enter the correct value for 'Include Length'
+Please enter the correct value for 'Length Field Size'
+Field 'Length Field Coding' is required.
+Please enter the correct value for 'Initial'
+Please enter the correct value for 'Minimum'
+Please enter the correct value for 'Maximum'
+Please enter the correct value for 'Initial Connections'
+Please enter the correct value for 'Minimum Connections'
+Please enter the correct value for 'Connection Wait'
+Please enter the correct value for 'Retry Interval'
+Please enter the correct value for 'Maximum Connection Wait For Read'
+Please enter the correct value for 'Maximum Pool For Read'
+Please enter the correct value for 'Maximum Wait For Reply'
+Please enter the correct value for 'Queue Length'

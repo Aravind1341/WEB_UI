@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Web UI Automation Test Suite">
+
+	<listeners>
+		<listener class-name="com.qa.extentreportlistener.ExtentReportListener" />
+	</listeners>
+
+
+	<test name="Web UI Test Cases">
+		<classes>
+           <class name="com.webui.qa.test.AddPageTest"></class>
+		</classes>
+	</test>
+</suite>
